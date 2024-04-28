@@ -1,0 +1,55 @@
+body{
+    background-image: url(./pexels-pixabay-276724.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.nav ul li{
+    
+    padding-right: 10%;
+    font-size: xx-large;
+    display: inline-block;
+
+    
+}
+.nav ul li a{
+    text-decoration: none;
+    padding-right: 10%;
+
+}
+
+#head{
+    
+    text-align: center;
+    margin-top: 20%;
+    color: white;
+    font-size: 350%;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 300%;
+    margin-bottom: 10%;
+}
+.bottom-btn1{
+    text-align: center;
+    padding-top: 20px;
+
+}
+.bottom-btn1 button{
+    background-color: white;
+    border-radius: 40px;
+    margin-left: 40px;
+    margin-bottom: 500px;
+    height: 50px;
+    width: 400px;
+    font-size: 30px;
+}
+.bottom-btn1 span button{
+    border-radius: 40px;
+    background-color: white;
+    font-size: 30px;
+    margin-top: 5px;
+}
